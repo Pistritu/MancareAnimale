@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/import/Dezvoltare.unity
+  isLoaded: 1
+  isActive: 1

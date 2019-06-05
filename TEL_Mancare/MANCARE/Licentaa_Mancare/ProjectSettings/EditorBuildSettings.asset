@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scena_HM10_Mana.unity
+    guid: 43aafa9e52bafb4429edf8518a513ddb
+  - enabled: 0
+    path: Assets/ManaLicenta.unity
+    guid: a8e496071c3e07a4c84b786d21e5d140
+  - enabled: 1
+    path: Assets/import/Dezvoltare.unity
+    guid: abf7a5bd7df2a8a48bb25ad436378660
+  m_configObjects: {}
